@@ -1,3 +1,5 @@
-# ADSF-Projects-
+# ADSF-Projects
 ## Python Crash Course
-Python Crash Course chapter 8 and 9 exercises solutions
+### Chapter 8 and 9 exercise solutions
+
+![alt text](https://learntocodetogether.com/wp-content/uploads/2019/11/download-8.jpeg)
