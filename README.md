@@ -1,4 +1,4 @@
-<h1 align="Center">ADSF-PROJECTS </h1>
+<h1 "color: gold" align="Center">ADSF-PROJECTS </h1>
 <h2 align="Center" >Python Crash Course</h2>
 <h3 align="Center" >Chapter 8 and 9 exercise solutions
 
