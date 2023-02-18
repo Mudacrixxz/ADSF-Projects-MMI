@@ -2,9 +2,9 @@
 <h2 style = "color: gold" align="Center" >Python Crash Course</h2>
 <h3 align="Center" >Chapter 8 and 9 exercise solutions</h3>
 
-<h2 style = "color: gold"> <i> Exercises
+<h2 style = "color: gold">Exercises
 
-* [Chapter____8](Chap_(8)_Function/Chap_8.ipynb)
-* [Chapter____9](./Chap_9.ipynb)
+* <em> [Chapter__8__Solutions](https://github.com/Mudacrixxz/ADSF-Projects-MMI/blob/main/Chap_(8)_Function)
+* [Chapter__9__Solutions](https://github.com/Mudacrixxz/ADSF-Projects-MMI/blob/main/Chap_(9)_Class)
 
 ![PCC](https://learntocodetogether.com/wp-content/uploads/2019/11/download-8.jpeg)
