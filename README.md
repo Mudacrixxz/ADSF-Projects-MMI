@@ -4,7 +4,7 @@
 
 <h2 style = "color: gold">Exercises
 
-* <em> [Chapter__8__Solutions](https://github.com/Mudacrixxz/ADSF-Projects-MMI/blob/main/Chap_(8)_Function)
+*   [Chapter__8__Solutions](https://github.com/Mudacrixxz/ADSF-Projects-MMI/blob/main/Chap_(8)_Function)
 * [Chapter__9__Solutions](https://github.com/Mudacrixxz/ADSF-Projects-MMI/blob/main/Chap_(9)_Class)
 
 ![PCC](https://learntocodetogether.com/wp-content/uploads/2019/11/download-8.jpeg)
